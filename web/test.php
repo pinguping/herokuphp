@@ -1,7 +1,7 @@
-<html>
-<head>
-</head>
-<body>
-  Hello World!
-</body>
+<html lang="en">
+    <head>
+    </head>
+    <body>
+        Hello World!
+    </body>
 </html>
